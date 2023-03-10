@@ -29,6 +29,8 @@ ctril + b + [ or ]
 
 Esc key to exit from navigation mode
 
+
+
 # archive
 ## enable mouse:
 
@@ -39,3 +41,6 @@ setw -g mouse on
 ctrl + shift + mouse selection
 
 then use ctrl+shift+c
+
+
+
