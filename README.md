@@ -31,7 +31,11 @@ Esc key to exit from navigation mode
 
 # archive
 ## enable mouse:
+
 setw -g mouse on
+
 ## copy content in tmux window
+
 ctrl + shift + mouse selection
+
 then use ctrl+shift+c
