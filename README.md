@@ -45,8 +45,6 @@ then use ctrl+shift+c
 # TMUX plugin manager installation :
 
 https://github.com/tmux-plugins/tpm
-
-
 ctrl + b + I : will result in updates of the plugins added in tmux configuraiton file
 
 
