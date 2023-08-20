@@ -29,6 +29,8 @@ ctril + b + [ or ]
 
 Esc key to exit from navigation mode
 
+![image](https://github.com/AltairZa/tmux-configuration/assets/14125075/c4c4fe5a-17c6-4ec0-b731-f462ac7f52ad)
+
 
 
 # archive
