@@ -15,6 +15,12 @@ ctrl + b "
 
 ctrl + b %
 
+## choose tmux session
+
+tmux choose-tree
+
+
+
 # tabs creation
 
 ctrl + b c 
@@ -33,16 +39,24 @@ Esc key to exit from navigation mode
 
 
 
-# archive
+ 
 ## enable mouse:
-
-setw -g mouse on
+set -g @plugin 'nhdaly/tmux-better-mouse-mode'
+set -g mouse on
 
 ## copy content in tmux window
 
 ctrl + shift + mouse selection
 
 then use ctrl+shift+c
+
+### alternative 
+
+tmux-yank plugin
+
+set -g @plugin 'tmux-plugins/tmux-yank'
+
+
 
 # TMUX plugin manager installation :
 
